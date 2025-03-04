@@ -1,6 +1,6 @@
-# Assignment 1
+# Project 1
 
-## Assignment Instructions
+## Project Instructions
 
 ## Group Members
 
