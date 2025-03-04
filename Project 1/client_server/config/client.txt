@@ -1,0 +1,3 @@
+server_ips=[fill with server ips]
+port=1000
+directory_path=client_server/home

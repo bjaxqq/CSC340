@@ -1,0 +1,3 @@
+peer_ips=[fill with peer ips]
+port=1000
+directory_path=p2p/home
