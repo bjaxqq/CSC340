@@ -6,7 +6,7 @@ The goal is to design and mplement a simple **application layer protocol over** 
 
 Your designed protocol should perform the following functions:
 
-a. To detect node failure periodically($^**$also the Server failure in case of Client-Server mode)
+a. To detect node failure periodically($^{**}$ also the Server failure in case of Client-Server mode)
 b. To be able to detect when the failed node comes back to life
 c. To display the up-to-date file listing of "/home/" directory of all the live nodes
 
